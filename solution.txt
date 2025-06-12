@@ -1,4 +1,4 @@
-En bref, il faut créer une table users avec un identifiant unique pour chaque utilisateur,
+il faut créer une table users avec un identifiant unique pour chaque utilisateur,
 puis ajouter une colonne user_id dans la table games pour lier chaque partie à un utilisateur précis.
 Cela permettra de distinguer les parties d’Alice et de Bob, et d’afficher à chacun uniquement ses
 propres résultats.
